@@ -17,13 +17,13 @@ Note: To start the game, you need to turn on SW0. This will lead to the welcome 
 Repository Structure
 Docs: Contain the proposal and final report for this group
 Src:
-  ● ECE532_integration:
-    ○ ECE532_integration:This folder contains the main project, both digital system and the SDK software. Contains all files needed to run the Raiden game.
-    ○ ip_repo: Contains the IP modules used in this project.
-       ■ audio_out_1.0: Contains the custom audio IP
-       ■ Graphics_IP_1.0: Contains the custom graphics IP
-       ■ pmod_input2_1.0: Contains the video decoder IP, provided in ECE532 Piazza
-       ■ position_locator_1.0: Contains the motion detector IP
+  - ECE532_integration:
+    - ECE532_integration:This folder contains the main project, both digital system and the SDK software. Contains all files needed to run the Raiden game.
+    - ip_repo: Contains the IP modules used in this project.
+       - audio_out_1.0: Contains the custom audio IP
+       - Graphics_IP_1.0: Contains the custom graphics IP
+       - pmod_input2_1.0: Contains the video decoder IP, provided in ECE532 Piazza
+       - position_locator_1.0: Contains the motion detector IP
 
 
 

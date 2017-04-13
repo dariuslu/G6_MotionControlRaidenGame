@@ -1,4 +1,4 @@
-Motion Control Raiden Game
+Motion Control Raiden Game\n
 This project was for the course ECE532 at the University of Toronto, April 2017. This repository contains the source code and detailed documentation of the Motion Control Raiden Game. Players can control the aircrafts to eliminate enemies using body motions. At most two players are allowed.
 
 

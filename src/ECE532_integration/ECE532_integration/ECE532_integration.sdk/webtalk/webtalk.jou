@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# 
+# Start of session at: Wed Mar 29 16:37:16 2017
+# Process ID: 16212
+# Current directory: D:/Vivado_Project/ECE532_final/ECE532_integration/ECE532_integration/ECE532_integration.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: D:/Vivado_Project/ECE532_final/ECE532_integration/ECE532_integration/ECE532_integration.sdk/webtalk/webtalk.log
+# Journal file: D:/Vivado_Project/ECE532_final/ECE532_integration/ECE532_integration/ECE532_integration.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

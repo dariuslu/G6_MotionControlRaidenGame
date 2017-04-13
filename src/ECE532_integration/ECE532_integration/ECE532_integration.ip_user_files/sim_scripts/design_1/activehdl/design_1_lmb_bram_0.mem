@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+// Vivado v2016.2 (64-bit)
+// Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+// Created on Thursday April 13, 2017 - 02:28:17 pm, from:
+//
+//     Map file     - D:\Vivado_Project\ECE532_final\ECE532_integration\ECE532_integration\ECE532_integration.srcs\sources_1\bd\design_1\design_1.bmm
+//     Data file(s) - d:/Vivado_Project/ECE532_final/ECE532_integration/ECE532_integration/ECE532_integration.srcs/sources_1/bd/design_1/ip/design_1_microblaze_0_0/data/mb_bootloop_le.elf
+//
+// Address space 'dut_design_1_i_microblaze_0.dut_design_1_i_microblaze_0_local_memory_lmb_bram_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000

@@ -1,0 +1,6 @@
+20:37:30 **** Incremental Build of configuration Debug for project Raiden ****
+make all 
+make: Nothing to be done for `all'.
+
+20:37:30 Build Finished (took 115ms)
+

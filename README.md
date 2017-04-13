@@ -15,7 +15,7 @@ To run the game, compile the "ECE532_integration" Vivado project and download it
 Note: To start the game, you need to turn on SW0. This will lead to the welcome page. Then you need to turn off SW0 to enter the game. SW0 also can reset everything during the game.
 
 Repository Structure
-- Docs: Contain the proposal and final report for this group
+- Docs: Contain the final report, powerpoint, and demo video for this group
 - Src:
   - ECE532_integration:
     - ECE532_integration:This folder contains the main project, both digital system and the SDK software. Contains all files needed to run the Raiden game.

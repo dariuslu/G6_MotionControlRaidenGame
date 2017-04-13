@@ -28,9 +28,7 @@ Repository Structure
 
 
 Authors:
-Yi Tian Lu
-Sheng Zhan
-Zhe Wu
+Yi Tian Lu, Sheng Zhan, Zhe Wu
 
 Acknowledgements:
 We would like to thank Professor Paul Chow and all the TAs in ECE532 to provide the helps and guidance in this project.
